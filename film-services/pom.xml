@@ -12,7 +12,7 @@
 	<artifactId>film-services</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<name>App Film - Services</name>
-	<description>App Film - Backend Application</description>
+	<description>Film Portal - Backend Application</description>
 	<packaging>jar</packaging>
 	<properties>
 		<java.version>11</java.version>

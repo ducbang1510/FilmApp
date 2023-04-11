@@ -1,13 +1,13 @@
-package com.filmapp.FilmApp;
+package com.filmapp.parentservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FilmAppApplication {
+public class ParentServicesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FilmAppApplication.class, args);
+		SpringApplication.run(ParentServicesApplication.class, args);
 	}
 
 }
